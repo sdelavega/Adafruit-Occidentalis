@@ -1,3 +1,21 @@
+adafruit-pitft-helper (0.8.3-1) unstable; urgency=low
+
+  * 35r default speed is now 25000000
+
+ -- Todd Treece <todd@uniontownlabs.org>  Tue, 08 Nov 2016 14:18:05 -0500
+
+adafruit-pitft-helper (0.8.2-1) unstable; urgency=low
+
+  * rotate 35r by 180
+
+ -- Todd Treece <todd@uniontownlabs.org>  Tue, 18 Oct 2016 21:12:23 -0400
+
+adafruit-pitft-helper (0.8.1-1) unstable; urgency=low
+
+  * use upstream overlay for 28r and 35r
+
+ -- Todd Treece <todd@uniontownlabs.org>  Tue, 18 Oct 2016 18:40:19 -0400
+
 adafruit-pitft-helper (0.8.0-1) unstable; urgency=low
 
   * Handles lightdm configuration for framebuffer device.
